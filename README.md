@@ -4,7 +4,7 @@ Framework: Nuxt JS
 
 Module: Networking & Events
 
-Installation:
+Installation: To replicate and run this repository on a different computer, first ensure you have Node.js and Git installed. Open your terminal, clone the repository using `git clone <your-repo-link>`, and navigate into the project folder by typing `cd <your-folder-name>`. Next, install all required project dependencies by running the command `npm install`. Finally, start the local development server by running `npm run dev`, and open `http://localhost:3000` in your web browser to view the application.
 
 AI Tools used: Gemini Pro
 

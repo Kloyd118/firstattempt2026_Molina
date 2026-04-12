@@ -1,6 +1,6 @@
 # Molina
 
-Framework: Nuxt JS
+Framework: Nuxt JS + Vue.js + Tailwind CSS
 
 Module: Networking & Events
 

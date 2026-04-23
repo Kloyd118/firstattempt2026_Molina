@@ -1,5 +1,5 @@
 AdDU Alumni Career Hub - PWA Integration
-This project is a Nuxt 3 application enhanced with Progressive Web App (PWA) capabilities as part of Activity 5.
+This project is a Nuxt 3 application enhanced with Progressive Web App (PWA) capabilities as part of Activity 15.
 The Master Prompt
 I used the following prompt to guide the AI in the PWA conversion:
 "I am using Nuxt 3. Help me convert my project into a PWA using the @vite-pwa/nuxt module. I need a configuration that includes custom AdDU branding, specific icons (192x192 and 512x512), and a service worker that supports offline caching for my assets."
